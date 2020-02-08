@@ -10,9 +10,5 @@ r = requests.get("http://www.ozbargain.com.au")
 print(r.status_code)
 print(r.ok)
 
-print(r.ok)
-print(r.ok)
-print(r.ok)
-print(r.ok)
-print(r.ok)
+print('Hi my name is')
 
